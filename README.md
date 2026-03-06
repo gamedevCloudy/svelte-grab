@@ -13,7 +13,7 @@
 
 <br/>
 
-![](.github/assets/demo.mp4)
+<video src="https://github.com/user-attachments/assets/demo.mp4" width="100%" autoplay loop muted playsinline></video>
 
 <br/>
 
