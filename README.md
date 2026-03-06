@@ -13,7 +13,7 @@
 
 <br/>
 
-https://github.com/gamedevCloudy/sveltekit-grab/raw/main/.github/assets/demo.mp4
+![](.github/assets/demo.mp4)
 
 <br/>
 
