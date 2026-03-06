@@ -1,6 +1,6 @@
 {
   "name": "sv-grab",
-  "version": "0.1.3",
+  "version": "0.1.4",
   "license": "MIT",
   "description": "Select Svelte component context directly from your website. Hover any element → press ⌘C/Ctrl+C to instantly copy component name, source file, and HTML. Makes coding agents like Cursor, Claude, Copilot 3× faster and more accurate.",
   "type": "module",
