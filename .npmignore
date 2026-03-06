@@ -1,0 +1,8 @@
+src/
+tests/
+apps/
+packages/grab-cli/
+*.config.*
+tsconfig.json
+.svelte-kit/
+node_modules/
