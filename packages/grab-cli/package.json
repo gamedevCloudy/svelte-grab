@@ -1,0 +1,18 @@
+{
+  "name": "grab-cli",
+  "version": "0.1.0",
+  "license": "MIT",
+  "type": "module",
+  "bin": {
+    "svelte-grab": "./dist/index.js"
+  },
+  "scripts": {
+    "build": "tsup",
+    "dev": "tsup --watch"
+  },
+  "devDependencies": {
+    "@types/node": "^25.3.5",
+    "tsup": "^8.0.0",
+    "typescript": "^5.0.0"
+  }
+}
