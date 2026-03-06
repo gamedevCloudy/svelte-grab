@@ -13,7 +13,9 @@
 
 <br/>
 
-<video src="https://github.com/user-attachments/assets/demo.mp4" width="100%" autoplay loop muted playsinline></video>
+<a href="https://github.com/gamedevCloudy/sveltekit-grab/blob/main/.github/assets/demo.mp4">
+  <img src="https://raw.githubusercontent.com/gamedevCloudy/sveltekit-grab/main/.github/assets/demo.mp4" width="100%" />
+</a>
 
 <br/>
 
