@@ -13,9 +13,7 @@
 
 <br/>
 
-<a href="https://github.com/gamedevCloudy/sveltekit-grab/blob/main/.github/assets/demo.mp4">
-  <img src="https://raw.githubusercontent.com/gamedevCloudy/sveltekit-grab/main/.github/assets/demo.mp4" width="100%" />
-</a>
+![demo](https://raw.githubusercontent.com/gamedevCloudy/sveltekit-grab/main/.github/assets/demo.mp4)
 
 <br/>
 
